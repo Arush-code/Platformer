@@ -7,7 +7,7 @@ screen_width = 1000
 screen_height = 1000
 
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Platformer')
+pygame.display.set_caption('Platformer 2')
 
 #define game variables
 tile_size = 50
